@@ -1,5 +1,5 @@
 # EX 26 C program demonstrating a self-referential structure where an employee has a pointer to their manager.
-## DATE:11/05/2025
+## DATE:25/03/2026
 ## AIM:
 To write a C program to demonstrate a self-referential structure where an employee has a pointer to their manager.
 
